@@ -1,0 +1,8 @@
+PIC32UBL_LINUX Authors:
+
+Microchip Technology Inc:
+    Original Author
+
+Maxwell Pung <gnuftw@tutanota.com> <@gnuftw:matrix.org>:
+    Linux Port Author and Maintainer
+    Linux implementation
